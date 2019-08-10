@@ -1,1 +1,2 @@
-theme: minima
+permalink: /notes/:year/:month/:day/:title
+markdown: kramdown
