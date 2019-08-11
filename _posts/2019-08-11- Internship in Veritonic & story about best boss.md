@@ -4,4 +4,4 @@ title: Internship in Veritonic
 tags: default
 ---
 
-**Story about Veritonic..**
+**My boss Kevin Marshall was the best boss ever.**
