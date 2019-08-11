@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship in Veritonic & story about my boss. 
+title: Internship in Veritonic  
 tags: default
 ---
 
