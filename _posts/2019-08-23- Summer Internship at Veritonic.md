@@ -1,3 +1,7 @@
+---
+layout: post
+title: Summer Internship at Veritonic
+---
 
 Hey, I'm Shradhit Subudhi & this is my first post over my website <http://www.shradhit.com>.
 Right now, I'm done with my internship at Veritonic - a dynamic startup which measures and scores audio creative, including voice, sonic brand elements and music — in streaming and radio ads, podcasts, smart speaker applications etc.
