@@ -5,7 +5,7 @@ title: Summer Internship at Veritonic
 
 Hey, I'm Shradhit Subudhi & this is my first post over my website <http://www.shradhit.com>.
 Right now, I'm done with my internship at Veritonic - a dynamic startup which measures and scores audio creative, including voice, sonic brand elements and music — in streaming and radio ads, podcasts, smart speaker applications etc.
-This post is about my work and experiences, I had a privilege to gather during my ten weeks of internship at Veritonic. I'll attempt to elaborate on the things I understood about startup culture & dealing with people from my mentor / boss [Kevin Marshall](https://falicon.com) ( Chief Technical Officer [CTO] - Veritonic ).
+This post is about my work and experiences; I had a privilege to gather during my ten weeks of internship at Veritonic. I'll attempt to elaborate on the things I understood about startup culture & dealing with people from my mentor / boss [Kevin Marshall](https://falicon.com) ( Chief Technical Officer [CTO] - Veritonic ).
 
 ### Let's get started :
 
