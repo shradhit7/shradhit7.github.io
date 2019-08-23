@@ -30,7 +30,7 @@ Reinventing the wheel is a practice of unnecessarily engineering artifacts that 
 
 -  Startup Culture, what is that ?
 
-In a startup environment a person has to wear multiple hats. For example : [Rich Infante](https://www.richinfante.com), being a software developer at Veritonic (also a good friend) was working towards data analytics projects. Startup culture -  values creative problem solving, open communication and flat hierarchy.
+In a startup environment a person has to wear multiple hats. For example : [Rich Infante](https://www.richinfante.com), being a software developer at Veritonic (also a good friend) was working towards data analytics projects. Startup culture values - creative problem solving, open communication and flat hierarchy.
 
 - Humility is important, cause..
 
