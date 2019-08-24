@@ -43,8 +43,11 @@ Emphasis is made on making the code more readable when it is being used in the p
 
 - Defining characteristics of American Culture, are ..
 
-   - Equality - The American Declaration of Independence states that “all [people] are created equal,” and this belief is deeply embedded in their cultural values. Americans believe that all people are of equal standing, and are therefore uncomfortable with overt displays of respect such as being bowed to.
+   - Equality - 
+     The American Declaration of Independence states that “all [people] are created equal,” and this belief is deeply embedded in their cultural values. Americans believe that all people are of equal standing, and are therefore uncomfortable with overt displays of respect such as being bowed to.
 
-   - Informality - This belief in equality causes Americans to be rather informal in their behavior towards other people. Don’t be surprised if store clerks and waiters introduce themselves by their first names. Many people visiting the US are surprised by the informality of American speech, dress, and posture. Don’t mistake this for rudeness or irreverence; it’s just a part of their culture!
+   - Informality - 
+     This belief in equality causes Americans to be rather informal in their behavior towards other people. Don’t be surprised if store clerks and waiters introduce themselves by their first names. Many people visiting the US are surprised by the informality of American speech, dress, and posture. Don’t mistake this for rudeness or irreverence; it’s just a part of their culture!
 
-   - Directness -  Americans tend to value, frankness and openness in their dealings with other people. They believe that conflicts and disagreements are best solved by means of forthright discussion among the people involved. Americans believe that if someone has a problem with someone else, they should tell the person clearly and directly in order to come up with a solution to the problem.
+   - Directness -  
+     Americans tend to value, frankness and openness in their dealings with other people. They believe that conflicts and disagreements are best solved by means of forthright discussion among the people involved. Americans believe that if someone has a problem with someone else, they should tell the person clearly and directly in order to come up with a solution to the problem.
