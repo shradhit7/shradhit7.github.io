@@ -15,10 +15,11 @@ Andrew Eisner ( Chief Operating Officer [COO] - Veritonic ) asked me to forward 
 
 Regarding their position in the firm they were humble. I wish to inculcate their humility. Things went fine and I was selected to be a Data Scientist at Veritonic for summer '19. Will never forget that day, really fortunate that I was selected.
 
-### Work in veritonic :
+### Work in Veritonic :
 
-There were two projects I worked in ten weeks both were related to audio data :
--  gender classification over audio files (.mp3 or .wav file) i.e. detect if the person talking is a male / female. Also distinguish audio among human voice & music.   
+There were two projects I worked in ten weeks & both were related to audio data. I've listed them below :
+
+-  gender classification over audio files (.mp3 or .wav file) i.e. detect if the person talking is a male / female. Also, distinguish audio among human voice & music.   
 -  emotion predictions over audio files (.mp3 or .wav file) detect if the person talking is making the listener enthusiastic, happy, inspired etc.
 
 ### Things I learned :
