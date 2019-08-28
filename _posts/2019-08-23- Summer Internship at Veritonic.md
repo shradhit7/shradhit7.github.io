@@ -26,7 +26,7 @@ There were two projects I worked in ten weeks & both were related to audio data.
 
 - We should not reinvent the wheels, why?
 
-Reinventing the wheel is a practice of unnecessarily engineering artifacts that provide functionality already provided by existing standard artifacts and ending up with a worse result than the standard. Before starting the problem statement, there has to be a rigorous literature survey about similar projects made by researchers expert in the respective field, it gives us an idea about the industry standards.
+Reinventing the wheel is a practice of unnecessarily engineering artifacts that provide functionality already provided by existing standard artifacts and ending up with a worse result than the standard. Before starting to work over a problem statement, there should to be a rigorous literature survey about similar projects made by researcher experts in the respective field, it gives us an idea about the industry standards.
 
 
 -  Startup Culture, what is that ?
