@@ -17,8 +17,9 @@ I've got sometime to reflect back about the mindset that led to habits, I think 
 - Keep Learning 
 
 ### Domains 
-- Audio Intellegence 
+- Audio Processing / Intelligence  
 - Natural Langauge Processing / Generation
+- Image Segmentation / classification 
 
 
 I'll try to write in brief about the interview process! 
