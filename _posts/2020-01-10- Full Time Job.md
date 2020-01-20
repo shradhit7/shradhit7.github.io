@@ -14,8 +14,6 @@ Having some experience of startups, I wanted to get a taste of mid size / big fi
 I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that! Cheers :) 
 
 
-## Be a better Data Scientist : 
-
 ### Hacks to be a better Data Scientist 
 
 - Code, code, code - practice makes perfect, right? 
