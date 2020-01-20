@@ -31,4 +31,4 @@ Many sub domains in Data Science. The once I worked on includes -
 - Analytics 
 
 Breif about ZS Interview : Resume Shortlist, call from the hiring manager & after somedays call from a Consultant or Manager.If things go positive then - On-site interview for ~5 hours. 
-   
+I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that! Cheers :) 
