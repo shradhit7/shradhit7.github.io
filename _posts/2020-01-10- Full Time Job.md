@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full Time at ZS Associates 
+title: Internship Veritonic / Full Time ZS
 ---
 
 Hi, this is my second post on my blog! Some life updates -  I'm done with the Data Scientist (internship ) at Veritonic Inc, successfully - which lasted for summer & fall semester ( around 6 - 7 months ). I loved my work in Music Information Retrieval and Audio Intelligence. Kevin Marshall (CTO - Veritonic) & Andrew ( COO - Veritonic) found my work intresting, also meeting tech geeks like Matt ( Head of Product) and Rich (Software Developer) amd  how can i forget the funniest Jeff (Marketing Head).  
