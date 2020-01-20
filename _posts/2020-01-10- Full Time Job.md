@@ -3,8 +3,9 @@ layout: post
 title: Full Time at ZS Associates 
 ---
 
-Hi, this is my second post on my blog! Some life updates -  I'm done with the Data Scientist (internship ) at Veritonic Inc. which lasted for summer & fall semester ( around 6 - 7 months ) & accepted an offer for full time employment from ZS Associates (New York City), for the position of Data Science Associate (basically a data scientist). 
-I've got sometime to reflect back about the mindset that led to habits, I think were right to be a data scientist. There are many things you learn / understand / experience as an international students applying for jobs, the interview process and the preparation for the interviews in general - I'll like to give my perspective on that wrt Data Science. I'll also mention some hacks and tricks to be a better data scientist!!  
+Hi, this is my second post on my blog! Some life updates -  I'm done with the Data Scientist (internship ) at Veritonic Inc, successfully - which lasted for summer & fall semester ( around 6 - 7 months ). I loved my work in Music Information Retrieval and Audio Intelligence. Kevin Marshall (CTO - Veritonic) & Andrew ( COO - Veritonic) found my work intresting, also meeting tech geeks like Matt ( Head of Product) and Rich (Software Developer) amd  how can i forget the funniest Jeff (Marketing Head).  
+Having some experience of startups, my proclivities tended towards the big firms thus I accepted an offer for full time employment from ZS Associates (New York City), for the position of Data Science Associate (basically a data scientist). 
+I've got sometime to reflect back about the mindset that led to the habits, I think were right to be a data scientist at Veritonic also also crack interview at ZS Associates. There are many things you learn / understand / experience as an international students applying for jobs, the interview process and the preparation for the interviews in general - I'll  give my perspective on that wrt Data Science also mention hacks and tricks to be a better data scientist!  
 
 ## Be a better Data Scientist : 
 
