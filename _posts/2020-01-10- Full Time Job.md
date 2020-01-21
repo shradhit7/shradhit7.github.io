@@ -24,5 +24,5 @@ Having some experience of startups, I wanted to get a taste of mid / big size fi
 - Developing a problem solving attitude
 - Keep Learning
 
-I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that!
+I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to my experience at ZS Associates!
 _Cheers :)_
