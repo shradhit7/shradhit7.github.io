@@ -25,4 +25,4 @@ Having some experience of startups, I wanted to get a taste of mid / big size fi
 - Keep Learning
 
 I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that!
-_Cheers :)__
+_Cheers :)_
