@@ -16,7 +16,7 @@ Having some experience of startups, I wanted to get a taste of mid / big size fi
 ### Hacks to be a better Data Scientist 
 
 - Code, code, code - practice makes perfect, right? 
-- Don't try to be jack of all trade, master of none! Choose the domains(in DS) you find intersting and be an expert in that!  
+- Don't try to be jack of all trade! Choose the domains(in DS) you find intersting and be an expert in that!  
 - thorough understanding of machine learning theory 
 - Math is Important ( specifically statistics and linear algebra ) - _let no one say you otherwise_ 
 - Database - SQL & MongoDB ( never ignore databases) 
