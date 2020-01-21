@@ -17,12 +17,12 @@ Having some experience of startups, I wanted to get a taste of mid size / big fi
 
 - Code, code, code - practice makes perfect, right? 
 - Don't try to be jack of all trade, master of none! Choose the domains(in DS) you find intersting and be an expert in that!  
-- Machine Learning Theory 
-- Math is Important - let no one say you anything otherwise. 
-- Statistics and Linear Algebra  
+- thorough understanding of machine learning theory 
+- Math is Important ( specifically statistics and linear algebra ) - _let no one say you anything otherwise_ 
 - Database - SQL & MongoDB ( never ignore databases) 
-- Data Engineeing ( AWS, GCP, Docker etc. ) 
+- Hands on working with data engineeing tools ( AWS, GCP, Docker etc. ) 
 - Developing a problem solving attitude
 - Keep Learning
 
-I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that! Cheers :)  
+I'll be starting to work at ZS Associates by first week of Febuary and the next blog post will be related to that!
+_Cheers :)__
