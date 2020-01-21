@@ -10,7 +10,7 @@ Some life updates - I’m done with my Masters at Rutgers in 1.5 years (yey!) & 
 Having some experience of startups, I wanted to get a taste of mid / big size firms thus I accepted a full time employment offer from [ZS Associates](https://www.zs.com/) ( New York City ), for the position of Data Science Associate (basically a data scientist). Now I’ve got some time (till the start of my job ) to reflect back thinking about the mindset that led me to adopt habits, the right habits to be a better a data scientist at Veritonic and crack interview at ZS Associates. There are many things I learned / understood / experienced as an international student applying for jobs and during the perparation for interviews. I’ll give my perspective on that (wrt Data Science) and mention hacks and tricks to be a better data scientist!
 
 
-**Breif about ZS Interview** : Resume Shortlist, call from the hiring manager & after somedays call from a Consultant or Manager.If things go positive then - On-site interview, including coding round ~ 5 hours ( i know, its loads! ). 
+**Brief about ZS Interview** : Resume Shortlist, call from the hiring manager & after somedays call from a Consultant or Manager.If things go positive then - On-site interview, including coding round ~ 5 hours ( i know, its loads! ). 
 
 
 ### Hacks to be a better Data Scientist 
